@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bmoreno818.github.io/campfire-circuit/sitemap.xml
